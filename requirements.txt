@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+faiss-cpu
+pinecone-client
+langchain
+llama-index
+openai
+python-dotenv
+tiktoken
+pydantic
+pytest
